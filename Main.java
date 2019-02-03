@@ -1,3 +1,4 @@
+package com.somecompany.randomizer;
 import java.util.Scanner;
 //import java.util.ArrayList;
 
