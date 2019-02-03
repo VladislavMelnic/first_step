@@ -1,3 +1,4 @@
+package com.somecompany.randomizer;
 public class random {
  public  int random_number1;
     public void  Random_number (int a,int b){
